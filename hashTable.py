@@ -1,5 +1,5 @@
 
-# a chaining hash table created using Webinar 1 from c950 course tips
+# a chaining hash table created using Webinar 1 as a reference from c950 course tips
 class hashTable:
     # constructor with an initial capacity parameter
     # assigns each element within the array with an empty list which can be filled later
